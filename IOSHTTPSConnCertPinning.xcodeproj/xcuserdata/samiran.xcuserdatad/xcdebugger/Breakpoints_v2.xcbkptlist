@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A517EC8-0E40-4573-9640-770AB62EA023"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7F4EFA3-C9D5-4D3D-9BFE-B7A07B45A7DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSHTTPSConnCertPinning/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B7F4EFA3-C9D5-4D3D-9BFE-B7A07B45A7DC - c425f153e9b1cef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSHTTPSConnCertPinning.ViewController.localHTTPSEndpoint.getter : Swift.String"
+                  moduleName = "IOSHTTPSConnCertPinning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samiran/Documents/se/repos/IOSHTTPSConnCertPinning/IOSHTTPSConnCertPinning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "B7F4EFA3-C9D5-4D3D-9BFE-B7A07B45A7DC - ed6351e9d880decd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSHTTPSConnCertPinning.ViewController.localHTTPSEndpoint.setter : Swift.String"
+                  moduleName = "IOSHTTPSConnCertPinning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samiran/Documents/se/repos/IOSHTTPSConnCertPinning/IOSHTTPSConnCertPinning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "B7F4EFA3-C9D5-4D3D-9BFE-B7A07B45A7DC - 89d5593555a17af2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSHTTPSConnCertPinning.ViewController.localHTTPSEndpoint.modify : Swift.String"
+                  moduleName = "IOSHTTPSConnCertPinning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samiran/Documents/se/repos/IOSHTTPSConnCertPinning/IOSHTTPSConnCertPinning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B7F4EFA3-C9D5-4D3D-9BFE-B7A07B45A7DC - bfc25e6bac9b1d2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSHTTPSConnCertPinning.ViewController.localHTTPSEndpoint.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "IOSHTTPSConnCertPinning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samiran/Documents/se/repos/IOSHTTPSConnCertPinning/IOSHTTPSConnCertPinning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B7F4EFA3-C9D5-4D3D-9BFE-B7A07B45A7DC - 4a5104b4b537a651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSHTTPSConnCertPinning.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IOSHTTPSConnCertPinning.ViewController"
+                  moduleName = "IOSHTTPSConnCertPinning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samiran/Documents/se/repos/IOSHTTPSConnCertPinning/IOSHTTPSConnCertPinning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  uuid = "B7F4EFA3-C9D5-4D3D-9BFE-B7A07B45A7DC - da795c31722ae17c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSHTTPSConnCertPinning.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IOSHTTPSConnCertPinning.ViewController&gt;"
+                  moduleName = "IOSHTTPSConnCertPinning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samiran/Documents/se/repos/IOSHTTPSConnCertPinning/IOSHTTPSConnCertPinning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
